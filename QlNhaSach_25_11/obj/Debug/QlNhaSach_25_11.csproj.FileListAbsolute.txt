@@ -1,0 +1,143 @@
+E:\TÀI LIỆU HỌC TẬP\QlNhaSach_25_11\QlNhaSach_25_11\bin\Debug\QlNhaSach_25_11.exe.config
+E:\TÀI LIỆU HỌC TẬP\QlNhaSach_25_11\QlNhaSach_25_11\bin\Debug\QlNhaSach_25_11.exe
+E:\TÀI LIỆU HỌC TẬP\QlNhaSach_25_11\QlNhaSach_25_11\bin\Debug\QlNhaSach_25_11.pdb
+E:\TÀI LIỆU HỌC TẬP\QlNhaSach_25_11\QlNhaSach_25_11\obj\Debug\QlNhaSach_25_11.csproj.AssemblyReference.cache
+E:\TÀI LIỆU HỌC TẬP\QlNhaSach_25_11\QlNhaSach_25_11\obj\Debug\QlNhaSach_25_11.Form1.resources
+E:\TÀI LIỆU HỌC TẬP\QlNhaSach_25_11\QlNhaSach_25_11\obj\Debug\QlNhaSach_25_11.FrmKhachHang.resources
+E:\TÀI LIỆU HỌC TẬP\QlNhaSach_25_11\QlNhaSach_25_11\obj\Debug\QlNhaSach_25_11.FrmLapHoaDon.resources
+E:\TÀI LIỆU HỌC TẬP\QlNhaSach_25_11\QlNhaSach_25_11\obj\Debug\QlNhaSach_25_11.FrmMain.resources
+E:\TÀI LIỆU HỌC TẬP\QlNhaSach_25_11\QlNhaSach_25_11\obj\Debug\QlNhaSach_25_11.FrmNcc.resources
+E:\TÀI LIỆU HỌC TẬP\QlNhaSach_25_11\QlNhaSach_25_11\obj\Debug\QlNhaSach_25_11.FrmNhanVien.resources
+E:\TÀI LIỆU HỌC TẬP\QlNhaSach_25_11\QlNhaSach_25_11\obj\Debug\QlNhaSach_25_11.FrmPhieuNhap.resources
+E:\TÀI LIỆU HỌC TẬP\QlNhaSach_25_11\QlNhaSach_25_11\obj\Debug\QlNhaSach_25_11.FrmSach.resources
+E:\TÀI LIỆU HỌC TẬP\QlNhaSach_25_11\QlNhaSach_25_11\obj\Debug\QlNhaSach_25_11.FrmTheLoai.resources
+E:\TÀI LIỆU HỌC TẬP\QlNhaSach_25_11\QlNhaSach_25_11\obj\Debug\QlNhaSach_25_11.Properties.Resources.resources
+E:\TÀI LIỆU HỌC TẬP\QlNhaSach_25_11\QlNhaSach_25_11\obj\Debug\QlNhaSach_25_11.csproj.GenerateResource.cache
+E:\TÀI LIỆU HỌC TẬP\QlNhaSach_25_11\QlNhaSach_25_11\obj\Debug\QlNhaSach_25_11.csproj.CoreCompileInputs.cache
+E:\TÀI LIỆU HỌC TẬP\QlNhaSach_25_11\QlNhaSach_25_11\obj\Debug\QlNhaSach_25_11.exe
+E:\TÀI LIỆU HỌC TẬP\QlNhaSach_25_11\QlNhaSach_25_11\obj\Debug\QlNhaSach_25_11.pdb
+D:\.Net\QlNhaSach_25_11\QlNhaSach_25_11\bin\Debug\QlNhaSach_25_11.exe.config
+D:\.Net\QlNhaSach_25_11\QlNhaSach_25_11\obj\Debug\QlNhaSach_25_11.exe
+D:\.Net\QlNhaSach_25_11\QlNhaSach_25_11\obj\Debug\QlNhaSach_25_11.pdb
+D:\.Net\QlNhaSach_25_11\QlNhaSach_25_11\obj\Debug\QlNhaSach_25_11.csprojResolveAssemblyReference.cache
+D:\.Net\QlNhaSach_25_11\QlNhaSach_25_11\obj\Debug\QlNhaSach_25_11.Form1.resources
+D:\.Net\QlNhaSach_25_11\QlNhaSach_25_11\obj\Debug\QlNhaSach_25_11.FrmKhachHang.resources
+D:\.Net\QlNhaSach_25_11\QlNhaSach_25_11\obj\Debug\QlNhaSach_25_11.FrmLapHoaDon.resources
+D:\.Net\QlNhaSach_25_11\QlNhaSach_25_11\obj\Debug\QlNhaSach_25_11.FrmMain.resources
+D:\.Net\QlNhaSach_25_11\QlNhaSach_25_11\obj\Debug\QlNhaSach_25_11.FrmNcc.resources
+D:\.Net\QlNhaSach_25_11\QlNhaSach_25_11\obj\Debug\QlNhaSach_25_11.FrmNhanVien.resources
+D:\.Net\QlNhaSach_25_11\QlNhaSach_25_11\obj\Debug\QlNhaSach_25_11.FrmPhieuNhap.resources
+D:\.Net\QlNhaSach_25_11\QlNhaSach_25_11\obj\Debug\QlNhaSach_25_11.FrmSach.resources
+D:\.Net\QlNhaSach_25_11\QlNhaSach_25_11\obj\Debug\QlNhaSach_25_11.FrmTheLoai.resources
+D:\.Net\QlNhaSach_25_11\QlNhaSach_25_11\obj\Debug\QlNhaSach_25_11.Properties.Resources.resources
+D:\.Net\QlNhaSach_25_11\QlNhaSach_25_11\obj\Debug\QlNhaSach_25_11.csproj.GenerateResource.Cache
+D:\.Net\QlNhaSach_25_11\QlNhaSach_25_11\bin\Debug\QlNhaSach_25_11.exe
+D:\.Net\QlNhaSach_25_11\QlNhaSach_25_11\bin\Debug\QlNhaSach_25_11.pdb
+D:\DỮ LIỆU ZALO\QlNhaSach_25_11\QlNhaSach_25_11\bin\Debug\QlNhaSach_25_11.exe.config
+D:\DỮ LIỆU ZALO\QlNhaSach_25_11\QlNhaSach_25_11\bin\Debug\QlNhaSach_25_11.exe
+D:\DỮ LIỆU ZALO\QlNhaSach_25_11\QlNhaSach_25_11\bin\Debug\QlNhaSach_25_11.pdb
+D:\DỮ LIỆU ZALO\QlNhaSach_25_11\QlNhaSach_25_11\obj\Debug\QlNhaSach_25_11.csproj.AssemblyReference.cache
+D:\DỮ LIỆU ZALO\QlNhaSach_25_11\QlNhaSach_25_11\obj\Debug\QlNhaSach_25_11.Form1.resources
+D:\DỮ LIỆU ZALO\QlNhaSach_25_11\QlNhaSach_25_11\obj\Debug\QlNhaSach_25_11.FrmKhachHang.resources
+D:\DỮ LIỆU ZALO\QlNhaSach_25_11\QlNhaSach_25_11\obj\Debug\QlNhaSach_25_11.FrmLapHoaDon.resources
+D:\DỮ LIỆU ZALO\QlNhaSach_25_11\QlNhaSach_25_11\obj\Debug\QlNhaSach_25_11.FrmMain.resources
+D:\DỮ LIỆU ZALO\QlNhaSach_25_11\QlNhaSach_25_11\obj\Debug\QlNhaSach_25_11.FrmNcc.resources
+D:\DỮ LIỆU ZALO\QlNhaSach_25_11\QlNhaSach_25_11\obj\Debug\QlNhaSach_25_11.FrmNhanVien.resources
+D:\DỮ LIỆU ZALO\QlNhaSach_25_11\QlNhaSach_25_11\obj\Debug\QlNhaSach_25_11.FrmPhieuNhap.resources
+D:\DỮ LIỆU ZALO\QlNhaSach_25_11\QlNhaSach_25_11\obj\Debug\QlNhaSach_25_11.FrmSach.resources
+D:\DỮ LIỆU ZALO\QlNhaSach_25_11\QlNhaSach_25_11\obj\Debug\QlNhaSach_25_11.FrmTheLoai.resources
+D:\DỮ LIỆU ZALO\QlNhaSach_25_11\QlNhaSach_25_11\obj\Debug\QlNhaSach_25_11.Properties.Resources.resources
+D:\DỮ LIỆU ZALO\QlNhaSach_25_11\QlNhaSach_25_11\obj\Debug\QlNhaSach_25_11.csproj.GenerateResource.cache
+D:\DỮ LIỆU ZALO\QlNhaSach_25_11\QlNhaSach_25_11\obj\Debug\QlNhaSach_25_11.csproj.CoreCompileInputs.cache
+D:\DỮ LIỆU ZALO\QlNhaSach_25_11\QlNhaSach_25_11\obj\Debug\QlNhaSach_25_11.exe
+D:\DỮ LIỆU ZALO\QlNhaSach_25_11\QlNhaSach_25_11\obj\Debug\QlNhaSach_25_11.pdb
+E:\LuuDuLieuSinhVien\VoThanhDat\QlNhaSach_25_11\QlNhaSach_25_11\bin\Debug\QlNhaSach_25_11.exe.config
+E:\LuuDuLieuSinhVien\VoThanhDat\QlNhaSach_25_11\QlNhaSach_25_11\obj\Debug\QlNhaSach_25_11.exe
+E:\LuuDuLieuSinhVien\VoThanhDat\QlNhaSach_25_11\QlNhaSach_25_11\obj\Debug\QlNhaSach_25_11.pdb
+E:\LuuDuLieuSinhVien\VoThanhDat\QlNhaSach_25_11\QlNhaSach_25_11\bin\Debug\QlNhaSach_25_11.exe
+E:\LuuDuLieuSinhVien\VoThanhDat\QlNhaSach_25_11\QlNhaSach_25_11\bin\Debug\QlNhaSach_25_11.pdb
+E:\LuuDuLieuSinhVien\VoThanhDat\QlNhaSach_25_11\QlNhaSach_25_11\obj\Debug\QlNhaSach_25_11.csprojResolveAssemblyReference.cache
+E:\LuuDuLieuSinhVien\VoThanhDat\QlNhaSach_25_11\QlNhaSach_25_11\obj\Debug\QlNhaSach_25_11.Form1.resources
+E:\LuuDuLieuSinhVien\VoThanhDat\QlNhaSach_25_11\QlNhaSach_25_11\obj\Debug\QlNhaSach_25_11.FrmKhachHang.resources
+E:\LuuDuLieuSinhVien\VoThanhDat\QlNhaSach_25_11\QlNhaSach_25_11\obj\Debug\QlNhaSach_25_11.FrmLapHoaDon.resources
+E:\LuuDuLieuSinhVien\VoThanhDat\QlNhaSach_25_11\QlNhaSach_25_11\obj\Debug\QlNhaSach_25_11.FrmMain.resources
+E:\LuuDuLieuSinhVien\VoThanhDat\QlNhaSach_25_11\QlNhaSach_25_11\obj\Debug\QlNhaSach_25_11.FrmNcc.resources
+E:\LuuDuLieuSinhVien\VoThanhDat\QlNhaSach_25_11\QlNhaSach_25_11\obj\Debug\QlNhaSach_25_11.FrmNhanVien.resources
+E:\LuuDuLieuSinhVien\VoThanhDat\QlNhaSach_25_11\QlNhaSach_25_11\obj\Debug\QlNhaSach_25_11.FrmPhieuNhap.resources
+E:\LuuDuLieuSinhVien\VoThanhDat\QlNhaSach_25_11\QlNhaSach_25_11\obj\Debug\QlNhaSach_25_11.FrmSach.resources
+E:\LuuDuLieuSinhVien\VoThanhDat\QlNhaSach_25_11\QlNhaSach_25_11\obj\Debug\QlNhaSach_25_11.FrmTheLoai.resources
+E:\LuuDuLieuSinhVien\VoThanhDat\QlNhaSach_25_11\QlNhaSach_25_11\obj\Debug\QlNhaSach_25_11.Properties.Resources.resources
+E:\LuuDuLieuSinhVien\VoThanhDat\QlNhaSach_25_11\QlNhaSach_25_11\obj\Debug\QlNhaSach_25_11.csproj.GenerateResource.Cache
+E:\QlNhaSach_25_11\QlNhaSach_25_11\bin\Debug\QlNhaSach_25_11.exe.config
+E:\QlNhaSach_25_11\QlNhaSach_25_11\bin\Debug\QlNhaSach_25_11.exe
+E:\QlNhaSach_25_11\QlNhaSach_25_11\bin\Debug\QlNhaSach_25_11.pdb
+E:\QlNhaSach_25_11\QlNhaSach_25_11\obj\Debug\QlNhaSach_25_11.csproj.AssemblyReference.cache
+E:\QlNhaSach_25_11\QlNhaSach_25_11\obj\Debug\QlNhaSach_25_11.Form1.resources
+E:\QlNhaSach_25_11\QlNhaSach_25_11\obj\Debug\QlNhaSach_25_11.FrmKhachHang.resources
+E:\QlNhaSach_25_11\QlNhaSach_25_11\obj\Debug\QlNhaSach_25_11.FrmLapHoaDon.resources
+E:\QlNhaSach_25_11\QlNhaSach_25_11\obj\Debug\QlNhaSach_25_11.FrmMain.resources
+E:\QlNhaSach_25_11\QlNhaSach_25_11\obj\Debug\QlNhaSach_25_11.FrmNcc.resources
+E:\QlNhaSach_25_11\QlNhaSach_25_11\obj\Debug\QlNhaSach_25_11.FrmNhanVien.resources
+E:\QlNhaSach_25_11\QlNhaSach_25_11\obj\Debug\QlNhaSach_25_11.FrmPhieuNhap.resources
+E:\QlNhaSach_25_11\QlNhaSach_25_11\obj\Debug\QlNhaSach_25_11.FrmSach.resources
+E:\QlNhaSach_25_11\QlNhaSach_25_11\obj\Debug\QlNhaSach_25_11.FrmTheLoai.resources
+E:\QlNhaSach_25_11\QlNhaSach_25_11\obj\Debug\QlNhaSach_25_11.Properties.Resources.resources
+E:\QlNhaSach_25_11\QlNhaSach_25_11\obj\Debug\QlNhaSach_25_11.csproj.GenerateResource.cache
+E:\QlNhaSach_25_11\QlNhaSach_25_11\obj\Debug\QlNhaSach_25_11.csproj.CoreCompileInputs.cache
+E:\QlNhaSach_25_11\QlNhaSach_25_11\obj\Debug\QlNhaSach_25_11.exe
+E:\QlNhaSach_25_11\QlNhaSach_25_11\obj\Debug\QlNhaSach_25_11.pdb
+C:\Users\tutho\Desktop\QlNhaSach_25_11\QlNhaSach_25_11\bin\Debug\QlNhaSach_25_11.exe.config
+C:\Users\tutho\Desktop\QlNhaSach_25_11\QlNhaSach_25_11\obj\Debug\QlNhaSach_25_11.exe
+C:\Users\tutho\Desktop\QlNhaSach_25_11\QlNhaSach_25_11\obj\Debug\QlNhaSach_25_11.pdb
+C:\Users\tutho\Desktop\QlNhaSach_25_11\QlNhaSach_25_11\obj\Debug\QlNhaSach_25_11.csprojResolveAssemblyReference.cache
+C:\Users\tutho\Desktop\QlNhaSach_25_11\QlNhaSach_25_11\obj\Debug\QlNhaSach_25_11.Form1.resources
+C:\Users\tutho\Desktop\QlNhaSach_25_11\QlNhaSach_25_11\obj\Debug\QlNhaSach_25_11.FrmKhachHang.resources
+C:\Users\tutho\Desktop\QlNhaSach_25_11\QlNhaSach_25_11\obj\Debug\QlNhaSach_25_11.FrmLapHoaDon.resources
+C:\Users\tutho\Desktop\QlNhaSach_25_11\QlNhaSach_25_11\obj\Debug\QlNhaSach_25_11.FrmMain.resources
+C:\Users\tutho\Desktop\QlNhaSach_25_11\QlNhaSach_25_11\obj\Debug\QlNhaSach_25_11.FrmNcc.resources
+C:\Users\tutho\Desktop\QlNhaSach_25_11\QlNhaSach_25_11\obj\Debug\QlNhaSach_25_11.FrmNhanVien.resources
+C:\Users\tutho\Desktop\QlNhaSach_25_11\QlNhaSach_25_11\obj\Debug\QlNhaSach_25_11.FrmPhieuNhap.resources
+C:\Users\tutho\Desktop\QlNhaSach_25_11\QlNhaSach_25_11\obj\Debug\QlNhaSach_25_11.FrmSach.resources
+C:\Users\tutho\Desktop\QlNhaSach_25_11\QlNhaSach_25_11\obj\Debug\QlNhaSach_25_11.FrmTheLoai.resources
+C:\Users\tutho\Desktop\QlNhaSach_25_11\QlNhaSach_25_11\obj\Debug\QlNhaSach_25_11.Properties.Resources.resources
+C:\Users\tutho\Desktop\QlNhaSach_25_11\QlNhaSach_25_11\obj\Debug\QlNhaSach_25_11.csproj.GenerateResource.Cache
+C:\Users\tutho\Desktop\QlNhaSach_25_11\QlNhaSach_25_11\bin\Debug\QlNhaSach_25_11.exe
+C:\Users\tutho\Desktop\QlNhaSach_25_11\QlNhaSach_25_11\bin\Debug\QlNhaSach_25_11.pdb
+C:\Users\ASUS\Documents\năm 3\hk1\.Net\ĐỒ ÁN\QlNhaSach_25_11\QlNhaSach_25_11\QlNhaSach_25_11\bin\Debug\QlNhaSach_25_11.exe.config
+C:\Users\ASUS\Documents\năm 3\hk1\.Net\ĐỒ ÁN\QlNhaSach_25_11\QlNhaSach_25_11\QlNhaSach_25_11\obj\Debug\QlNhaSach_25_11.exe
+C:\Users\ASUS\Documents\năm 3\hk1\.Net\ĐỒ ÁN\QlNhaSach_25_11\QlNhaSach_25_11\QlNhaSach_25_11\obj\Debug\QlNhaSach_25_11.pdb
+C:\Users\ASUS\Documents\năm 3\hk1\.Net\ĐỒ ÁN\QlNhaSach_25_11\QlNhaSach_25_11\QlNhaSach_25_11\bin\Debug\QlNhaSach_25_11.exe
+C:\Users\ASUS\Documents\năm 3\hk1\.Net\ĐỒ ÁN\QlNhaSach_25_11\QlNhaSach_25_11\QlNhaSach_25_11\bin\Debug\QlNhaSach_25_11.pdb
+C:\Users\ASUS\Documents\năm 3\hk1\.Net\ĐỒ ÁN\QlNhaSach_25_11\QlNhaSach_25_11\QlNhaSach_25_11\obj\Debug\QlNhaSach_25_11.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Documents\năm 3\hk1\.Net\ĐỒ ÁN\QlNhaSach_25_11\QlNhaSach_25_11\QlNhaSach_25_11\obj\Debug\QlNhaSach_25_11.Form1.resources
+C:\Users\ASUS\Documents\năm 3\hk1\.Net\ĐỒ ÁN\QlNhaSach_25_11\QlNhaSach_25_11\QlNhaSach_25_11\obj\Debug\QlNhaSach_25_11.FrmKhachHang.resources
+C:\Users\ASUS\Documents\năm 3\hk1\.Net\ĐỒ ÁN\QlNhaSach_25_11\QlNhaSach_25_11\QlNhaSach_25_11\obj\Debug\QlNhaSach_25_11.FrmLapHoaDon.resources
+C:\Users\ASUS\Documents\năm 3\hk1\.Net\ĐỒ ÁN\QlNhaSach_25_11\QlNhaSach_25_11\QlNhaSach_25_11\obj\Debug\QlNhaSach_25_11.FrmMain.resources
+C:\Users\ASUS\Documents\năm 3\hk1\.Net\ĐỒ ÁN\QlNhaSach_25_11\QlNhaSach_25_11\QlNhaSach_25_11\obj\Debug\QlNhaSach_25_11.FrmNcc.resources
+C:\Users\ASUS\Documents\năm 3\hk1\.Net\ĐỒ ÁN\QlNhaSach_25_11\QlNhaSach_25_11\QlNhaSach_25_11\obj\Debug\QlNhaSach_25_11.FrmNhanVien.resources
+C:\Users\ASUS\Documents\năm 3\hk1\.Net\ĐỒ ÁN\QlNhaSach_25_11\QlNhaSach_25_11\QlNhaSach_25_11\obj\Debug\QlNhaSach_25_11.FrmPhieuNhap.resources
+C:\Users\ASUS\Documents\năm 3\hk1\.Net\ĐỒ ÁN\QlNhaSach_25_11\QlNhaSach_25_11\QlNhaSach_25_11\obj\Debug\QlNhaSach_25_11.FrmSach.resources
+C:\Users\ASUS\Documents\năm 3\hk1\.Net\ĐỒ ÁN\QlNhaSach_25_11\QlNhaSach_25_11\QlNhaSach_25_11\obj\Debug\QlNhaSach_25_11.FrmTheLoai.resources
+C:\Users\ASUS\Documents\năm 3\hk1\.Net\ĐỒ ÁN\QlNhaSach_25_11\QlNhaSach_25_11\QlNhaSach_25_11\obj\Debug\QlNhaSach_25_11.Properties.Resources.resources
+C:\Users\ASUS\Documents\năm 3\hk1\.Net\ĐỒ ÁN\QlNhaSach_25_11\QlNhaSach_25_11\QlNhaSach_25_11\obj\Debug\QlNhaSach_25_11.csproj.GenerateResource.Cache
+C:\Users\tutho\Desktop\QlNhaSach_25_11\QlNhaSach_25_11\QlNhaSach_25_11\bin\Debug\QlNhaSach_25_11.exe.config
+C:\Users\tutho\Desktop\QlNhaSach_25_11\QlNhaSach_25_11\QlNhaSach_25_11\obj\Debug\QlNhaSach_25_11.exe
+C:\Users\tutho\Desktop\QlNhaSach_25_11\QlNhaSach_25_11\QlNhaSach_25_11\obj\Debug\QlNhaSach_25_11.pdb
+C:\Users\tutho\Desktop\QlNhaSach_25_11\QlNhaSach_25_11\QlNhaSach_25_11\bin\Debug\QlNhaSach_25_11.exe
+C:\Users\tutho\Desktop\QlNhaSach_25_11\QlNhaSach_25_11\QlNhaSach_25_11\bin\Debug\QlNhaSach_25_11.pdb
+C:\Users\tutho\Desktop\QlNhaSach_25_11\QlNhaSach_25_11\QlNhaSach_25_11\obj\Debug\QlNhaSach_25_11.Form1.resources
+C:\Users\tutho\Desktop\QlNhaSach_25_11\QlNhaSach_25_11\QlNhaSach_25_11\obj\Debug\QlNhaSach_25_11.FrmKhachHang.resources
+C:\Users\tutho\Desktop\QlNhaSach_25_11\QlNhaSach_25_11\QlNhaSach_25_11\obj\Debug\QlNhaSach_25_11.FrmLapHoaDon.resources
+C:\Users\tutho\Desktop\QlNhaSach_25_11\QlNhaSach_25_11\QlNhaSach_25_11\obj\Debug\QlNhaSach_25_11.FrmMain.resources
+C:\Users\tutho\Desktop\QlNhaSach_25_11\QlNhaSach_25_11\QlNhaSach_25_11\obj\Debug\QlNhaSach_25_11.FrmNcc.resources
+C:\Users\tutho\Desktop\QlNhaSach_25_11\QlNhaSach_25_11\QlNhaSach_25_11\obj\Debug\QlNhaSach_25_11.FrmNhanVien.resources
+C:\Users\tutho\Desktop\QlNhaSach_25_11\QlNhaSach_25_11\QlNhaSach_25_11\obj\Debug\QlNhaSach_25_11.FrmPhieuNhap.resources
+C:\Users\tutho\Desktop\QlNhaSach_25_11\QlNhaSach_25_11\QlNhaSach_25_11\obj\Debug\QlNhaSach_25_11.FrmSach.resources
+C:\Users\tutho\Desktop\QlNhaSach_25_11\QlNhaSach_25_11\QlNhaSach_25_11\obj\Debug\QlNhaSach_25_11.FrmTheLoai.resources
+C:\Users\tutho\Desktop\QlNhaSach_25_11\QlNhaSach_25_11\QlNhaSach_25_11\obj\Debug\QlNhaSach_25_11.Properties.Resources.resources
+C:\Users\tutho\Desktop\QlNhaSach_25_11\QlNhaSach_25_11\QlNhaSach_25_11\obj\Debug\QlNhaSach_25_11.csproj.GenerateResource.Cache
+C:\Users\tutho\Desktop\QlNhaSach_25_11\QlNhaSach_25_11\QlNhaSach_25_11\obj\Debug\QlNhaSach_25_11.csproj.AssemblyReference.cache
+C:\Users\tutho\Desktop\QlNhaSach_25_11\QlNhaSach_25_11\QlNhaSach_25_11\obj\Debug\QlNhaSach_25_11.csproj.CoreCompileInputs.cache
+D:\DỮ LIỆU ZALO\QlNhaSach_25_11\QlNhaSach_25_11\obj\Debug\QlNhaSach_25_11.FrmBaoCaoThongKe.resources
+D:\DỮ LIỆU ZALO\QlNhaSach_25_11\QlNhaSach_25_11\obj\Debug\QlNhaSach_25_11.FrmMainNV.resources
+D:\DỮ LIỆU ZALO\QlNhaSach_25_11\QlNhaSach_25_11\obj\Debug\QlNhaSach_25_11.THONGTINNHANVIEN.resources
